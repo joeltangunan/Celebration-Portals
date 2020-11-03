@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5WzPmpRcQ75_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Celebration Portals</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Celebration_Portals_ORG">
+    <organization identifier="Celebration_Portals_ORG">
+      <title>Celebration Portals</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5WzPmpRcQ75_course_id_RES">
+        <title>Celebration Portals</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5WzPmpRcQ75_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5qnGySnK7Mu_80_DX1620_DY1620_CX1274_CY849.jpg" />
+      <file href="mobile/6LuN73CWQIj_80_P_202_219_1538_1600_DX638_DY638_CX376_CY391.png" />
+      <file href="mobile/68rqBFizg31_80_DX1680_DY1680_CX960_CY615.jpg" />
+      <file href="mobile/5fq8NMtp4Fv_80_DX112_DY112_CX88_CY88.png" />
+      <file href="mobile/5sf9ydf1zU8_80_DX112_DY112_CX88_CY88.png" />
+      <file href="mobile/5leH1SOkqOP_80_DX112_DY112_CX88_CY88.png" />
+      <file href="mobile/5vf0yWfDoFt_80_DX112_DY112_CX88_CY88.png" />
+      <file href="mobile/5XsgSnEzxb7_80_DX1680_DY1680_CX1322_CY881.jpg" />
+      <file href="mobile/5kiUskBeS7u_80_DX112_DY112_CX88_CY88.png" />
+      <file href="mobile/6BALYDEFisZ_80_P_124_84_1780_1186_DX1932_DY1932_CX1322_CY881.png" />
+      <file href="mobile/68r9WETVIEy_80_DX1512_DY1512_CX1188_CY849.jpg" />
+      <file href="mobile/6BPIiYzZFbD_80_DX422_DY422_CX332_CY332.png" />
+      <file href="mobile/66Al39HMC1L6XwSe7g8OfY{Width=419.5, Height=175}Light_80_DX840_DY840_CX420_CY175.png" />
+      <file href="mobile/6VZqrekE1UK_80_DX2442_DY2442_CX1918_CY931.jpg" />
+      <file href="mobile/6VZqrekE1UK_80_DX2442_DY2442_CX1273_CY618.jpg" />
+      <file href="mobile/5dcokjYMHeO_80_DX1644_DY1644_CX1293_CY862.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6pNlVVVipfl.png" />
+      <file href="mobile/Shape5Z4UVv83PqC.png" />
+      <file href="mobile/Shape6lIp6L72IdF.png" />
+      <file href="mobile/Shape66FhnyXQonc.png" />
+      <file href="mobile/Shape6i4qm80oCHg.png" />
+      <file href="mobile/Shape6mtIlNukGv4.png" />
+      <file href="mobile/Shape6YEb84aRkm2.png" />
+      <file href="mobile/Shape5VgJSFHkc0z.png" />
+      <file href="mobile/Shape6lHYQiJK4RP.png" />
+      <file href="mobile/Shape65xtJdjW6fm.png" />
+      <file href="mobile/Shape5sfLveCweP5.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6QvVw1Y6IT0.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
